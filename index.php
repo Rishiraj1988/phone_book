@@ -4,11 +4,11 @@
 <head>
 
 <!--bootstrap-css--->
-<link rel="stylesheet" href="bootstrap/bootstrap.min.css" />
+<link rel="stylesheet" href="bootstrap.min.css" />
 <!--bootstrap-jquery--->
-<script src="bootstrap/jquery.min.js"></script>
+<script src="jquery.min.js"></script>
 <!--bootstrap-javascript--->
-<script src="bootstrap/bootstrap.min.js"></script>
+<script src="bootstrap.min.js"></script>
 
 </head>
 <body>
